@@ -1,0 +1,10 @@
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Domain\bin\Debug\netcoreapp3.1\CounterApi.Domain.deps.json
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Domain\bin\Debug\netcoreapp3.1\CounterApi.Domain.dll
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Domain\bin\Debug\netcoreapp3.1\CounterApi.Domain.pdb
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Domain\obj\Debug\netcoreapp3.1\CounterApi.Domain.csproj.AssemblyReference.cache
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Domain\obj\Debug\netcoreapp3.1\CounterApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Domain\obj\Debug\netcoreapp3.1\CounterApi.Domain.AssemblyInfoInputs.cache
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Domain\obj\Debug\netcoreapp3.1\CounterApi.Domain.AssemblyInfo.cs
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Domain\obj\Debug\netcoreapp3.1\CounterApi.Domain.csproj.CoreCompileInputs.cache
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Domain\obj\Debug\netcoreapp3.1\CounterApi.Domain.dll
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Domain\obj\Debug\netcoreapp3.1\CounterApi.Domain.pdb

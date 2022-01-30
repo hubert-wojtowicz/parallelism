@@ -1,0 +1,17 @@
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\obj\Debug\netcoreapp3.1\CounterApi.Console.Consumer.csproj.AssemblyReference.cache
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\obj\Debug\netcoreapp3.1\CounterApi.Console.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\obj\Debug\netcoreapp3.1\CounterApi.Console.Consumer.AssemblyInfoInputs.cache
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\obj\Debug\netcoreapp3.1\CounterApi.Console.Consumer.AssemblyInfo.cs
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\obj\Debug\netcoreapp3.1\CounterApi.Console.Consumer.csproj.CoreCompileInputs.cache
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\bin\Debug\netcoreapp3.1\CounterApi.Console.Consumer.exe
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\bin\Debug\netcoreapp3.1\CounterApi.Console.Consumer.deps.json
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\bin\Debug\netcoreapp3.1\CounterApi.Console.Consumer.runtimeconfig.json
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\bin\Debug\netcoreapp3.1\CounterApi.Console.Consumer.runtimeconfig.dev.json
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\bin\Debug\netcoreapp3.1\CounterApi.Console.Consumer.dll
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\bin\Debug\netcoreapp3.1\CounterApi.Console.Consumer.pdb
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\bin\Debug\netcoreapp3.1\CounterApi.Domain.dll
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\bin\Debug\netcoreapp3.1\CounterApi.Domain.pdb
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\obj\Debug\netcoreapp3.1\CounterApi.Console.Consumer.csproj.CopyComplete
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\obj\Debug\netcoreapp3.1\CounterApi.Console.Consumer.dll
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\obj\Debug\netcoreapp3.1\CounterApi.Console.Consumer.pdb
+C:\repos\parallelism\counter-api\ConterAPI\CounterApi.Console.Consumer\obj\Debug\netcoreapp3.1\CounterApi.Console.Consumer.genruntimeconfig.cache

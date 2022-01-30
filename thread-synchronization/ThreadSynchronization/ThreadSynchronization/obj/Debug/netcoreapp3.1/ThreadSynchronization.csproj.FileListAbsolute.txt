@@ -1,0 +1,14 @@
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\bin\Debug\netcoreapp3.1\ThreadSynchronization.exe
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\bin\Debug\netcoreapp3.1\ThreadSynchronization.deps.json
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\bin\Debug\netcoreapp3.1\ThreadSynchronization.runtimeconfig.json
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\bin\Debug\netcoreapp3.1\ThreadSynchronization.runtimeconfig.dev.json
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\bin\Debug\netcoreapp3.1\ThreadSynchronization.dll
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\bin\Debug\netcoreapp3.1\ThreadSynchronization.pdb
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.csproj.AssemblyReference.cache
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.AssemblyInfoInputs.cache
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.AssemblyInfo.cs
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.csproj.CoreCompileInputs.cache
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.dll
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.pdb
+C:\repos\parallelism\thread-synchronization\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.genruntimeconfig.cache
